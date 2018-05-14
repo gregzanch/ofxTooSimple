@@ -1,0 +1,2 @@
+# ofxTooSimple
+openFrameworks GUI Addon
